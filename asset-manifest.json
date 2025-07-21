@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactDashboardTest/static/css/main.4e5f1c7d.css",
-    "main.js": "/ReactDashboardTest/static/js/main.9847c4af.js",
+    "main.js": "/ReactDashboardTest/static/js/main.23116882.js",
     "static/media/5.jpg": "/ReactDashboardTest/static/media/5.1eca5fb9ddccb6fceeba.jpg",
     "static/media/3.jpg": "/ReactDashboardTest/static/media/3.fbabb8fc3cca4fa12809.jpg",
     "static/media/2.jpg": "/ReactDashboardTest/static/media/2.51eec8e94fdccf8936e3.jpg",
@@ -26,10 +26,10 @@
     "static/media/notification.svg": "/ReactDashboardTest/static/media/notification.ba5cab733a73a57d9e2deafc5a808165.svg",
     "static/media/notifications.svg": "/ReactDashboardTest/static/media/notifications.cd5cb6e5e5e9eca452217321f83df8a7.svg",
     "main.4e5f1c7d.css.map": "/ReactDashboardTest/static/css/main.4e5f1c7d.css.map",
-    "main.9847c4af.js.map": "/ReactDashboardTest/static/js/main.9847c4af.js.map"
+    "main.23116882.js.map": "/ReactDashboardTest/static/js/main.23116882.js.map"
   },
   "entrypoints": [
     "static/css/main.4e5f1c7d.css",
-    "static/js/main.9847c4af.js"
+    "static/js/main.23116882.js"
   ]
 }
