@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ReactDashboardTest/static/css/main.4e5f1c7d.css",
+    "main.js": "/ReactDashboardTest/static/js/main.2a5325d9.js",
+    "static/media/5.jpg": "/ReactDashboardTest/static/media/5.1eca5fb9ddccb6fceeba.jpg",
+    "static/media/3.jpg": "/ReactDashboardTest/static/media/3.fbabb8fc3cca4fa12809.jpg",
+    "static/media/2.jpg": "/ReactDashboardTest/static/media/2.51eec8e94fdccf8936e3.jpg",
+    "static/media/4.jpg": "/ReactDashboardTest/static/media/4.f7fb90f9ec23452282a5.jpg",
+    "static/media/1.jpg": "/ReactDashboardTest/static/media/1.027c277c4d8665a4e238.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ReactDashboardTest/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/bootstrap-icons.woff?": "/ReactDashboardTest/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fontawesome-webfont.eot": "/ReactDashboardTest/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ReactDashboardTest/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/photo.jpg": "/ReactDashboardTest/static/media/photo.629fd6c49c484c8aee46.jpg",
+    "static/media/bootstrap-icons.woff2?": "/ReactDashboardTest/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ReactDashboardTest/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ReactDashboardTest/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.svg": "/ReactDashboardTest/static/media/logo.48b4cdecfc85e9eb74e15d33b3af4ac0.svg",
+    "static/media/typography.svg": "/ReactDashboardTest/static/media/typography.238d7b72cfd7423d04309c7206e89b79.svg",
+    "static/media/settings.svg": "/ReactDashboardTest/static/media/settings.ef40001e068bb760da5732b461091ac2.svg",
+    "static/media/dashboard.svg": "/ReactDashboardTest/static/media/dashboard.69532736d2b8788d59d3fdeeb6a9b2ba.svg",
+    "static/media/components.svg": "/ReactDashboardTest/static/media/components.3ee5de8ed37cc70cdd3f744265a074f8.svg",
+    "static/media/mail.svg": "/ReactDashboardTest/static/media/mail.686de5837ffb3373db5e56f2d5c5f029.svg",
+    "static/media/tables.svg": "/ReactDashboardTest/static/media/tables.feda71394cbbaa7dfd655b6ae08ad0b3.svg",
+    "index.html": "/ReactDashboardTest/index.html",
+    "static/media/notification.svg": "/ReactDashboardTest/static/media/notification.ba5cab733a73a57d9e2deafc5a808165.svg",
+    "static/media/notifications.svg": "/ReactDashboardTest/static/media/notifications.cd5cb6e5e5e9eca452217321f83df8a7.svg",
+    "main.4e5f1c7d.css.map": "/ReactDashboardTest/static/css/main.4e5f1c7d.css.map",
+    "main.2a5325d9.js.map": "/ReactDashboardTest/static/js/main.2a5325d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e5f1c7d.css",
+    "static/js/main.2a5325d9.js"
+  ]
+}
